@@ -62,7 +62,7 @@ var PersonsList = [
   
   PersonsList.forEach(person => {console.log(person.Age, person.IsWorking)})
 
-// 8. Create a function called whatIDontLike that accepts one argument. Choose a good name for the argument.
+// 8. Create a function called whatIDontLike that accepts one argument. Chose a good name for the argument.
 // Inside the function, log the string "I don't like " together with the argument.
 // Call the function and pass in a value of your choice.
 
